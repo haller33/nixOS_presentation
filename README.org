@@ -44,6 +44,6 @@ image editor, to generate .pdf file
 
 https://github.com/GNOME/gimp
 
-*** Motivation
+** Motivation
 
 brief introduction to NixOS and how they works and can breaffy new knowledge for a company to how to better organize the infrastructure and reproducible architecture, click and run
