@@ -3,3 +3,4 @@
 
 a little introdutory presentation about NixOS and what it can do!
 
+[[../resources/nixos_presentation_inicial.png]]
