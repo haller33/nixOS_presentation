@@ -1,0 +1,5 @@
+
+* NixOS Introdutory Presentation
+
+a little introdutory presentation about NixOS and what it can do!
+
