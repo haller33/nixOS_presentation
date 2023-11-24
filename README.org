@@ -4,3 +4,46 @@
 a little introdutory presentation about NixOS and what it can do!
 
 [[resources/nixos_presentation_inicial.png]]
+
+24 Nov 2023
+
+** Build and Run presentation
+
+#+begin_src bash
+ racket -I slideshow/simple main.rkt
+#+end_src
+
+the actual build process has been done using gimp and shotgun to take the .pdf file.
+
+** References
+
+there is the source link for the presentation
+
+https://nixos.org/
+
+https://nixos.org/guides/how-nix-works
+
+https://nixos.org/manual/nixpkgs/stable/
+
+*** Tools
+
+**** slides
+racket lang mode for slides, a simple DSL for create slides
+
+https://github.com/apg/slideshow-simple
+
+**** printing
+
+software for doing screen shots, on Rust
+
+https://github.com/neXromancers/shotgun
+
+**** image editor
+
+image editor, to generate .pdf file
+
+https://github.com/GNOME/gimp
+
+*** Motivation
+
+brief introduction to NixOS and how they works and can breaffy new knowledge for a company to how to better organize the infrastructure and reproducible architecture, click and run
